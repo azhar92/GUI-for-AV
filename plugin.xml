@@ -1,0 +1,15 @@
+<library path="lib/librqt_test1">
+  <class name="rqt_test1/MyPlugin" type="rqt_test1::MyPlugin" base_class_type="rqt_gui_cpp::Plugin">
+    <description>
+      4 buttons to switch between 4 different modes.
+    </description>
+    <qtgui>
+      <group>
+        <label>Visualization</label>
+        <statustip>Plugins related to visualization.</statustip>
+      </group>
+      <label>test1</label>
+      <statustip>4 buttons to switch between 4 different modes.</statustip>
+    </qtgui>
+  </class>
+</library>
