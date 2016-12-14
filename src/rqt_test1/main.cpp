@@ -1,4 +1,4 @@
-#include "mainwindow.h"
+#include "rqt_test1/mainwindow.h"
 #include <QApplication>
 
 int main(int argc, char *argv[])
